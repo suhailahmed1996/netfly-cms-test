@@ -106,4 +106,9 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: ??
+    - plan: New bbs plan
+      price: "1000"
+      items:
+        - jsjsjs
+      description: nnsnsn
 ---
