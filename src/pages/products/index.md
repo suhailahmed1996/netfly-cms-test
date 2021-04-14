@@ -110,5 +110,5 @@ pricing:
       price: "1000"
       items:
         - jsjsjs
-      description: <a>https://pages.razorpay.com/pl_GybdcQ4WoOYNO9/</a>
+      description: https://pages.razorpay.com/pl_GybdcQ4WoOYNO9/
 ---
